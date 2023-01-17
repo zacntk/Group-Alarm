@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147602783965",
+    "project_id": "groupalarmlogin",
+    "storage_bucket": "groupalarmlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147602783965:android:298a8218d0006040faa534",
+        "android_client_info": {
+          "package_name": "com.example.projectsf341"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147602783965-ro7v93o9dbme8k2srjd5tc143mp2mp60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgDxXAc9h7r_b67PAf9dnMQ1nMxnCBTpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147602783965-ro7v93o9dbme8k2srjd5tc143mp2mp60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
